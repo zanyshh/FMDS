@@ -1,1 +1,1 @@
-# FMDS-face-and-motion-detection-software-
+# FMDS (Face and Motion Detection Software)
