@@ -1,7 +1,7 @@
 ## FMDS (Face and Motion Detection Software)
 
 ### Description
- a simple face and motion detection app written in python using the cv2 library and the haarcascade file
+ a simple face and motion detection app written in python using the cv2 library and the "haarcascade_frontal_face.xml" file
  that contains all the data required to recoganize faces using any camera.
 
 ### Requirements
